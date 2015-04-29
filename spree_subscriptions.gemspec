@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'spree', '~> 3.0'
-  s.add_dependency 'prawn', '~> 0.12.0'
+  s.add_dependency 'prawn', '~> 1.0.0'
   s.add_dependency 'prawn-labels', '~> 0.11.3'
 
   s.add_development_dependency 'capybara', '2.2.1'
